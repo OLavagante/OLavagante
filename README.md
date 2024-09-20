@@ -1,6 +1,6 @@
 - Henlo, i'm @OLavagante aka André Rodrigues.
 - I’m interested in eletronics, board games, and some bits of code here and there.
-- I’m currently learning LEEC @ IST
+- I’m currently finishing MEEC @ IST
 - I’m looking to collaborate on **dying inside**
 - discord: firefenix
 - mail: andre.l.r.s01@gmail.com
